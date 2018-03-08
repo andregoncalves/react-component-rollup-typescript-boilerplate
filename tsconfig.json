@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "es6",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "target": "es5",
+    "declaration": true,
+    "sourceMap": true,
+  },
+  "include": [
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

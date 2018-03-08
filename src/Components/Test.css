@@ -1,0 +1,12 @@
+/* ==========================================================================
+ * Test.css
+ *
+ * @author: Andre Goncalves (andre@andregoncalves)
+ * @copyright: 2018 Andre Goncalves
+ * ==========================================================================
+ */
+
+.test {
+  background: yellow;
+  font-size: large;
+}
