@@ -1,3 +1,11 @@
+/* ==========================================================================
+ * Test Component
+ *
+ * @author: Andre Goncalves (andre@andregoncalves)
+ * @copyright: 2018 Andre Goncalves
+ * ==========================================================================
+ */
+
 import * as React from 'react';
 import './Test.css';
 
