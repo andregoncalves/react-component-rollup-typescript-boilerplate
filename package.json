@@ -1,6 +1,6 @@
 {
   "name": "react-component-rollup-typescript-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A boilerplate to develop react apps and components with TypeScript and Rollup",
   "license": "MIT",
   "main": "dist/index.js",
@@ -31,6 +31,7 @@
     "autoprefixer": "^8.0.0",
     "react": "16",
     "rollup": "latest",
+    "rollup-plugin-babili": "^3.1.1",
     "rollup-plugin-commonjs": "latest",
     "rollup-plugin-css-only": "latest",
     "rollup-plugin-livereload": "latest",
@@ -39,7 +40,6 @@
     "rollup-plugin-replace": "latest",
     "rollup-plugin-serve": "latest",
     "rollup-plugin-typescript2": "latest",
-    "rollup-plugin-uglify": "latest",
     "rollup-watch": "latest",
     "tslib": "latest",
     "tslint": "latest",

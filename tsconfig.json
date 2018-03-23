@@ -1,16 +1,15 @@
 {
   "compilerOptions": {
     "jsx": "react",
-    "module": "es6",
+    "module": "es2015",
+    "target": "es2017",
     "moduleResolution": "node",
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "strictNullChecks": true,
-    "target": "es5",
-    "declaration": true,
-    "sourceMap": true,
+    "sourceMap": true
   },
   "include": [
     "src/**/*.tsx"
